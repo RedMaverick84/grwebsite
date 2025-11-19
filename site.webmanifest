@@ -1,19 +1,30 @@
 {
   "name": "Gavin Reddrop",
   "short_name": "Gavin Reddrop",
-  "icons": [
-    {
-      "src": "https://raw.githubusercontent.com/RedMaverick84/grwebsite/main/android-chrome-192x192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "https://raw.githubusercontent.com/RedMaverick84/grwebsite/main/android-chrome-512x512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ],
+  "description": "AI Leadership & Innovation Strategist, Speaker, Author",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
   "theme_color": "#68cc22",
   "background_color": "#ffffff",
-  "display": "standalone"
+  "icons": [
+    {
+      "src": "https://redmaverick84.github.io/grwebsite/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://redmaverick84.github.io/grwebsite/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://redmaverick84.github.io/grwebsite/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
 }
